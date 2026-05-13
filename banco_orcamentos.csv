@@ -1,0 +1,4 @@
+Data;Hora;Cod_Bimer;Cliente;Vendedor;Valor;Margem;Status
+2026-05-12;15:55;;teste;admin;16500.0;14.09%;APROVADO IDEAL
+2026-05-12;16:16;;teste;admin;16995.0;92.85%;APROVADO IDEAL;0.00kg
+13/05/2026 15:04;;teste;teste;880.66;0.0;75.33;✅ APROVADO IDEAL;admin;1;0.0
